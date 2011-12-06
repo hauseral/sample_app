@@ -17,7 +17,7 @@ end
 
   #get "pages/help"
 
-  get "pages/help"
+  #get "pages/help"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
